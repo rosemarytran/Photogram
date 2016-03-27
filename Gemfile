@@ -1,4 +1,6 @@
 source 'https://rubygems.org'
+gem 'bootstrap-sass', '~> 3.3.6'
+gem 'simple_form', "~> 3.2.1"
 gem "paperclip", "~> 4.3.6"
 gem 'haml', '~> 4.0.7'
 gem "haml-rails", "~> 0.9"
